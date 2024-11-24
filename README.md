@@ -32,6 +32,8 @@ The SOP document in this directory consists of the following sections.
 Finally, this repository also containts a guidebook on teaching philosophies, which educational consultants can use for workshops and for one-on-one coaching with professors, to help them explorea and understand their teaching philosophies. Instructors' teaching philsophies may be implicit and hard to introspect about. Instructors might identify with a particular set of teaching values that they find appealing, but their actual teaching practice might diverge greatly from those explicit values that they would declar. In spite of values or teaching beliefs they may consciously identify with, many instructors fall back on practices that they are familiar with, e.g., how they learned when they were students. Educational consultants can use guides like this to explore and reflect on actual teaching beliefs and practices. This can also be helpful for those who need to submit teaching philosophy statements, e.g., for job applications. 
 
 ## License
-These documents may be reused under the Creative Commons Attribution (BY) license. Licensees / Users may copy, distribute, display, perform and make derivative works and remixes based on it only if they give the author or licensor the credits (attribution) in the manner specified by these. Users may cite these documents in whatever citation or referencing format is appropriate, by including the following information. 
+These documents may be reused under the Creative Commons Attribution (BY) license. Licensees / Users may copy, distribute, display, perform and make derivative works and remixes based on it only if they give the author or licensor the credits (attribution) in the manner specified by these. Users may cite these documents in whatever citation or referencing format is appropriate, by including the following information.
+
 Author: Kent A. Lee
+
 URL: https://github.com/kentlee7/Pedagogical-coaching/[document_URL] 
